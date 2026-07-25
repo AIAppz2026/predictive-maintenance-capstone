@@ -1,0 +1,10 @@
+{
+    "dataset_name": "engine_data.csv",
+    "repository_path": "data/raw/engine_data.csv",
+    "persistent_path": "/content/drive/MyDrive/1_DBA/Predictive_Maintenance_Capstone/data/raw/engine_data.csv",
+    "file_size_bytes": 1301801,
+    "sha256": "616c7b985ec00e299061f02b11fd866f8eca16b5e8d15d4a61a5fbfd116b8045",
+    "registered_at_utc": "2026-07-25T17:19:47.584211+00:00",
+    "source_status": "Original raw dataset preserved without transformation",
+    "target_variable_documented": "Engine_Condition"
+}
