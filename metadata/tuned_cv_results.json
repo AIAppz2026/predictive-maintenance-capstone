@@ -14,7 +14,7 @@
         "CV ROC-AUC Std": 0.01230456788754884,
         "Evaluated Candidates": 15,
         "Search Runtime (s)": 622.8103247830004,
-        "Best Parameters": "{\"estimator__max_depth\": 5, \"max_features\": 0.7, \"max_samples\": 1.0, \"n_estimators\": 200}",
+        "Best Parameters": "{\"estimator__max_depth\": \"5\", \"max_features\": \"0.7\", \"max_samples\": \"1.0\", \"n_estimators\": \"200\"}",
         "MLflow Run ID": "bd71556d3db844dcae4eb0a5084a8b52"
     },
     {
@@ -32,7 +32,7 @@
         "CV ROC-AUC Std": 0.008336502974202601,
         "Evaluated Candidates": 15,
         "Search Runtime (s)": 287.8429488970014,
-        "Best Parameters": "{\"estimator__max_depth\": 1, \"learning_rate\": 0.03, \"n_estimators\": 50}",
+        "Best Parameters": "{\"estimator__max_depth\": \"1\", \"learning_rate\": \"0.03\", \"n_estimators\": \"50\"}",
         "MLflow Run ID": "4a36dae7c42d4875b46e517e7ff98430"
     },
     {
@@ -50,7 +50,7 @@
         "CV ROC-AUC Std": 0.009756182929988925,
         "Evaluated Candidates": 15,
         "Search Runtime (s)": 460.8402387249989,
-        "Best Parameters": "{\"learning_rate\": 0.03, \"max_depth\": 2, \"min_samples_leaf\": 1, \"n_estimators\": 100, \"subsample\": 0.8}",
+        "Best Parameters": "{\"learning_rate\": \"0.03\", \"max_depth\": \"2\", \"min_samples_leaf\": \"1\", \"n_estimators\": \"100\", \"subsample\": \"0.8\"}",
         "MLflow Run ID": "8f79d1f0acbe4afc96d0744698a2c228"
     },
     {
@@ -68,7 +68,7 @@
         "CV ROC-AUC Std": 0.010511441237184435,
         "Evaluated Candidates": 15,
         "Search Runtime (s)": 49.85540492099972,
-        "Best Parameters": "{\"colsample_bytree\": 0.8, \"learning_rate\": 0.03, \"max_depth\": 3, \"n_estimators\": 150, \"subsample\": 0.8}",
+        "Best Parameters": "{\"colsample_bytree\": \"0.8\", \"learning_rate\": \"0.03\", \"max_depth\": \"3\", \"n_estimators\": \"150\", \"subsample\": \"0.8\"}",
         "MLflow Run ID": "fb84e5d407ce48f59487fd12191d8bc5"
     },
     {
@@ -86,7 +86,7 @@
         "CV ROC-AUC Std": 0.011827060880300073,
         "Evaluated Candidates": 15,
         "Search Runtime (s)": 1315.55676323,
-        "Best Parameters": "{\"class_weight\": null, \"max_depth\": 10, \"max_features\": \"sqrt\", \"min_samples_leaf\": 1, \"n_estimators\": 150}",
+        "Best Parameters": "{\"class_weight\": \"None\", \"max_depth\": \"10\", \"max_features\": \"sqrt\", \"min_samples_leaf\": \"1\", \"n_estimators\": \"150\"}",
         "MLflow Run ID": "664e3a29169d4778a08195152a21f124"
     },
     {
@@ -104,7 +104,7 @@
         "CV ROC-AUC Std": 0.01141299687547211,
         "Evaluated Candidates": 15,
         "Search Runtime (s)": 13.219704312999966,
-        "Best Parameters": "{\"class_weight\": null, \"max_depth\": 5, \"min_samples_leaf\": 1, \"min_samples_split\": 10}",
+        "Best Parameters": "{\"class_weight\": \"None\", \"max_depth\": \"5\", \"min_samples_leaf\": \"1\", \"min_samples_split\": \"10\"}",
         "MLflow Run ID": "0f29cc8de9a6402baccd6beefefa9a5e"
     }
 ]
