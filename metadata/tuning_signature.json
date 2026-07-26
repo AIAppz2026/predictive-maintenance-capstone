@@ -1,0 +1,186 @@
+{
+    "configuration": {
+        "candidate_models": {
+            "AdaBoost": {
+                "estimator_class": "AdaBoostClassifier",
+                "parameter_space": {
+                    "estimator__max_depth": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "learning_rate": [
+                        0.03,
+                        0.1,
+                        0.5,
+                        1.0
+                    ],
+                    "n_estimators": [
+                        50,
+                        100,
+                        200
+                    ]
+                }
+            },
+            "Bagging": {
+                "estimator_class": "BaggingClassifier",
+                "parameter_space": {
+                    "estimator__max_depth": [
+                        null,
+                        5,
+                        10
+                    ],
+                    "max_features": [
+                        0.7,
+                        1.0
+                    ],
+                    "max_samples": [
+                        0.7,
+                        0.85,
+                        1.0
+                    ],
+                    "n_estimators": [
+                        50,
+                        100,
+                        200
+                    ]
+                }
+            },
+            "Decision Tree": {
+                "estimator_class": "DecisionTreeClassifier",
+                "parameter_space": {
+                    "class_weight": [
+                        null,
+                        "balanced"
+                    ],
+                    "max_depth": [
+                        null,
+                        5,
+                        10,
+                        20
+                    ],
+                    "min_samples_leaf": [
+                        1,
+                        5,
+                        15
+                    ],
+                    "min_samples_split": [
+                        2,
+                        10,
+                        30
+                    ]
+                }
+            },
+            "Gradient Boosting": {
+                "estimator_class": "GradientBoostingClassifier",
+                "parameter_space": {
+                    "learning_rate": [
+                        0.03,
+                        0.1,
+                        0.2
+                    ],
+                    "max_depth": [
+                        2,
+                        3,
+                        5
+                    ],
+                    "min_samples_leaf": [
+                        1,
+                        5
+                    ],
+                    "n_estimators": [
+                        100,
+                        200,
+                        300
+                    ],
+                    "subsample": [
+                        0.8,
+                        1.0
+                    ]
+                }
+            },
+            "Random Forest": {
+                "estimator_class": "RandomForestClassifier",
+                "parameter_space": {
+                    "class_weight": [
+                        null,
+                        "balanced"
+                    ],
+                    "max_depth": [
+                        null,
+                        10,
+                        20
+                    ],
+                    "max_features": [
+                        "sqrt",
+                        null
+                    ],
+                    "min_samples_leaf": [
+                        1,
+                        5
+                    ],
+                    "n_estimators": [
+                        150,
+                        300,
+                        500
+                    ]
+                }
+            },
+            "XGBoost": {
+                "estimator_class": "XGBClassifier",
+                "parameter_space": {
+                    "colsample_bytree": [
+                        0.8,
+                        1.0
+                    ],
+                    "learning_rate": [
+                        0.03,
+                        0.1,
+                        0.2
+                    ],
+                    "max_depth": [
+                        3,
+                        5,
+                        8
+                    ],
+                    "n_estimators": [
+                        150,
+                        300,
+                        500
+                    ],
+                    "subsample": [
+                        0.8,
+                        1.0
+                    ]
+                }
+            }
+        },
+        "cross_validation_folds": 5,
+        "feature_columns": [
+            "engine_rpm",
+            "lub_oil_pressure",
+            "fuel_pressure",
+            "coolant_pressure",
+            "lub_oil_temperature",
+            "coolant_temperature"
+        ],
+        "maximum_iterations_per_model": 15,
+        "positive_class": 1,
+        "primary_metric": "f1",
+        "random_state": 42,
+        "scikit_learn_version": "1.6.1",
+        "scoring_metrics": [
+            "accuracy",
+            "f1",
+            "precision",
+            "recall",
+            "roc_auc"
+        ],
+        "stage": "hyperparameter_tuning",
+        "target_column": "engine_condition",
+        "training_rows": 15628,
+        "training_sha256": "f078873ac746b43e5dd2359d46e631283a556c42b2905dc4e3d369338af6c9d6",
+        "xgboost_version": "3.3.0"
+    },
+    "tuning_signature": "05575b767ee7a8ca0df64c61686e252216c809f3025a6174beb77ff35fbc3055"
+}
