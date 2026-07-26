@@ -1,0 +1,28 @@
+{
+    "best_index": 8,
+    "best_metrics": {
+        "best_cv_accuracy_mean": 0.6663050850927703,
+        "best_cv_accuracy_std": 0.008085267586171431,
+        "best_cv_f1_mean": 0.7614969497430929,
+        "best_cv_f1_std": 0.0063100406653814126,
+        "best_cv_precision_mean": 0.6930787902364006,
+        "best_cv_precision_std": 0.004770708193718218,
+        "best_cv_recall_mean": 0.8449378423691754,
+        "best_cv_recall_std": 0.009873780664019484,
+        "best_cv_roc_auc_mean": 0.6959941994964283,
+        "best_cv_roc_auc_std": 0.011827060880300073,
+        "best_mean_fit_time_sec": 7.790955972671509,
+        "best_mean_score_time_sec": 0.1758194923400879,
+        "evaluated_candidates": 15.0,
+        "search_runtime_sec": 1315.55676323
+    },
+    "best_parameters": {
+        "class_weight": null,
+        "max_depth": 10,
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "n_estimators": 150
+    },
+    "model_name": "Random Forest",
+    "tuning_signature": "05575b767ee7a8ca0df64c61686e252216c809f3025a6174beb77ff35fbc3055"
+}

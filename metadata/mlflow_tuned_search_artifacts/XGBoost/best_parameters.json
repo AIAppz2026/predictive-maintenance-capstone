@@ -1,0 +1,28 @@
+{
+    "best_index": 12,
+    "best_metrics": {
+        "best_cv_accuracy_mean": 0.6695687575175944,
+        "best_cv_accuracy_std": 0.008609503049268689,
+        "best_cv_f1_mean": 0.7661966903291096,
+        "best_cv_f1_std": 0.006407325636308522,
+        "best_cv_precision_mean": 0.6916885533733709,
+        "best_cv_precision_std": 0.005486958796783729,
+        "best_cv_recall_mean": 0.8587394375809646,
+        "best_cv_recall_std": 0.009849174678921765,
+        "best_cv_roc_auc_mean": 0.7011431134888814,
+        "best_cv_roc_auc_std": 0.010511441237184435,
+        "best_mean_fit_time_sec": 0.3329463958740234,
+        "best_mean_score_time_sec": 0.05314488410949707,
+        "evaluated_candidates": 15.0,
+        "search_runtime_sec": 49.85540492099972
+    },
+    "best_parameters": {
+        "colsample_bytree": 0.8,
+        "learning_rate": 0.03,
+        "max_depth": 3,
+        "n_estimators": 150,
+        "subsample": 0.8
+    },
+    "model_name": "XGBoost",
+    "tuning_signature": "05575b767ee7a8ca0df64c61686e252216c809f3025a6174beb77ff35fbc3055"
+}

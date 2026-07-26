@@ -1,0 +1,27 @@
+{
+    "best_index": 12,
+    "best_metrics": {
+        "best_cv_accuracy_mean": 0.6585619245041586,
+        "best_cv_accuracy_std": 0.004128364060697478,
+        "best_cv_f1_mean": 0.776493645812258,
+        "best_cv_f1_std": 0.002616530867321994,
+        "best_cv_precision_mean": 0.6611339168261756,
+        "best_cv_precision_std": 0.002660426721721515,
+        "best_cv_recall_mean": 0.9406333459528646,
+        "best_cv_recall_std": 0.004019143801197451,
+        "best_cv_roc_auc_mean": 0.6991608307297305,
+        "best_cv_roc_auc_std": 0.01230456788754884,
+        "best_mean_fit_time_sec": 11.17444429397583,
+        "best_mean_score_time_sec": 0.31212916374206545,
+        "evaluated_candidates": 15.0,
+        "search_runtime_sec": 622.8103247830004
+    },
+    "best_parameters": {
+        "estimator__max_depth": 5,
+        "max_features": 0.7,
+        "max_samples": 1.0,
+        "n_estimators": 200
+    },
+    "model_name": "Bagging",
+    "tuning_signature": "05575b767ee7a8ca0df64c61686e252216c809f3025a6174beb77ff35fbc3055"
+}

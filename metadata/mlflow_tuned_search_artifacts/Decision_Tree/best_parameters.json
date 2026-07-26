@@ -1,0 +1,27 @@
+{
+    "best_index": 6,
+    "best_metrics": {
+        "best_cv_accuracy_mean": 0.6631060473448497,
+        "best_cv_accuracy_std": 0.010390636125285294,
+        "best_cv_f1_mean": 0.7576137769804812,
+        "best_cv_f1_std": 0.011589344048545459,
+        "best_cv_precision_mean": 0.6931658588435644,
+        "best_cv_precision_std": 0.006263123224256388,
+        "best_cv_recall_mean": 0.8360080043885064,
+        "best_cv_recall_std": 0.03001910621831221,
+        "best_cv_roc_auc_mean": 0.6784914178703686,
+        "best_cv_roc_auc_std": 0.01141299687547211,
+        "best_mean_fit_time_sec": 0.09526267051696777,
+        "best_mean_score_time_sec": 0.020667839050292968,
+        "evaluated_candidates": 15.0,
+        "search_runtime_sec": 13.219704312999966
+    },
+    "best_parameters": {
+        "class_weight": null,
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+    },
+    "model_name": "Decision Tree",
+    "tuning_signature": "05575b767ee7a8ca0df64c61686e252216c809f3025a6174beb77ff35fbc3055"
+}

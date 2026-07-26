@@ -1,0 +1,28 @@
+{
+    "best_index": 12,
+    "best_metrics": {
+        "best_cv_accuracy_mean": 0.6636177607165706,
+        "best_cv_accuracy_std": 0.0076448437717817974,
+        "best_cv_f1_mean": 0.7688152537181606,
+        "best_cv_f1_std": 0.005774686897712563,
+        "best_cv_precision_mean": 0.6783687444479577,
+        "best_cv_precision_std": 0.004611567255768901,
+        "best_cv_recall_mean": 0.8871543986793273,
+        "best_cv_recall_std": 0.010608569061840855,
+        "best_cv_roc_auc_mean": 0.6971714890348946,
+        "best_cv_roc_auc_std": 0.009756182929988925,
+        "best_mean_fit_time_sec": 4.83240065574646,
+        "best_mean_score_time_sec": 0.04869651794433594,
+        "evaluated_candidates": 15.0,
+        "search_runtime_sec": 460.8402387249989
+    },
+    "best_parameters": {
+        "learning_rate": 0.03,
+        "max_depth": 2,
+        "min_samples_leaf": 1,
+        "n_estimators": 100,
+        "subsample": 0.8
+    },
+    "model_name": "Gradient Boosting",
+    "tuning_signature": "05575b767ee7a8ca0df64c61686e252216c809f3025a6174beb77ff35fbc3055"
+}

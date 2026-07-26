@@ -1,0 +1,26 @@
+{
+    "best_index": 12,
+    "best_metrics": {
+        "best_cv_accuracy_mean": 0.6305349404990401,
+        "best_cv_accuracy_std": 0.00010324074966907026,
+        "best_cv_f1_mean": 0.7734086781325666,
+        "best_cv_f1_std": 7.766075461769017e-05,
+        "best_cv_precision_mean": 0.6305349404990401,
+        "best_cv_precision_std": 0.00010324074966907026,
+        "best_cv_recall_mean": 1.0,
+        "best_cv_recall_std": 0.0,
+        "best_cv_roc_auc_mean": 0.6487051336693795,
+        "best_cv_roc_auc_std": 0.008336502974202601,
+        "best_mean_fit_time_sec": 1.3224364280700684,
+        "best_mean_score_time_sec": 0.07940082550048828,
+        "evaluated_candidates": 15.0,
+        "search_runtime_sec": 287.8429488970014
+    },
+    "best_parameters": {
+        "estimator__max_depth": 1,
+        "learning_rate": 0.03,
+        "n_estimators": 50
+    },
+    "model_name": "AdaBoost",
+    "tuning_signature": "05575b767ee7a8ca0df64c61686e252216c809f3025a6174beb77ff35fbc3055"
+}
