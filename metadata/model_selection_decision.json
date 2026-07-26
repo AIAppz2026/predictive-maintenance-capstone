@@ -1,0 +1,31 @@
+{
+    "selected_model": "Bagging",
+    "selection_method": [
+        "Exclude degenerate prediction behaviour",
+        "Highest held-out F1-score",
+        "Lowest false-negative count",
+        "Highest ROC-AUC",
+        "Highest accuracy"
+    ],
+    "selected_metrics": {
+        "test_accuracy": 0.6583056053237778,
+        "test_precision": 0.6595022624434389,
+        "test_recall": 0.9468128298822575,
+        "test_f1": 0.7774629104850809,
+        "test_roc_auc": 0.7021901988768962,
+        "false_positives": 1204,
+        "false_negatives": 131,
+        "specificity": 0.16620498614958448,
+        "false_negative_rate": 0.05318717011774259,
+        "balanced_accuracy": 0.556508908015921,
+        "predicted_class_1_rate_percentage": 90.50422318914768
+    },
+    "tuned_mlflow_run_id": "bd71556d3db844dcae4eb0a5084a8b52",
+    "evaluation_mlflow_run_id": "c9e587d1f206477abb4066a9f04f1db2",
+    "training_sha256": "f078873ac746b43e5dd2359d46e631283a556c42b2905dc4e3d369338af6c9d6",
+    "testing_sha256": "8f09a48e06d4a11b2efd9deb62fb25516c8b7fc7eab4f5179b1cc63a6d04723f",
+    "tuning_signature": "05575b767ee7a8ca0df64c61686e252216c809f3025a6174beb77ff35fbc3055",
+    "evaluation_signature": "7d8c6a8a36c2861086b7e51e8d69fc98b405d283d901200639481e2781445ef9",
+    "threshold": 0.5,
+    "threshold_note": "Default threshold retained. No threshold optimisation was performed using the held-out test dataset."
+}
