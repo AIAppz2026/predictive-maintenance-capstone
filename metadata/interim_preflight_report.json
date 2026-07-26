@@ -1,0 +1,93 @@
+{
+    "project": "Predictive Maintenance AIML Capstone",
+    "preflight_status": "Passed",
+    "preflight_source_commit": "a2b5fe3432718e38607f5afc53d5f1a7a3885422",
+    "repository": "AIAppz2026/predictive-maintenance-capstone",
+    "repository_visibility": "Public",
+    "branch": "main",
+    "verified_manifest_artifacts": 41,
+    "selected_model": "Bagging",
+    "selected_model_sha256": "11d427cd355f39a92a2cc4386151e6f0bd21126c2e966b8575cf8587c261a8da",
+    "final_model_mlflow_run_id": "beed90c71bd245778b995947f12e0b84",
+    "interim_boundary": "Completed through selected-model registration; Streamlit and GitHub Actions excluded.",
+    "checks": [
+        {
+            "Check": "GitHub repository visibility",
+            "Expected": "Public",
+            "Observed": "Public",
+            "Passed": true
+        },
+        {
+            "Check": "Active Git branch",
+            "Expected": "main",
+            "Observed": "main",
+            "Passed": true
+        },
+        {
+            "Check": "Local and remote commit synchronisation",
+            "Expected": "Matching commits",
+            "Observed": "Matching",
+            "Passed": true
+        },
+        {
+            "Check": "Working tree before preflight report",
+            "Expected": "Clean",
+            "Observed": "Clean",
+            "Passed": true
+        },
+        {
+            "Check": "Manifest artefact count",
+            "Expected": "At least 41",
+            "Observed": 41,
+            "Passed": true
+        },
+        {
+            "Check": "Manifest public accessibility",
+            "Expected": "All True",
+            "Observed": true,
+            "Passed": true
+        },
+        {
+            "Check": "Manifest public checksum matching",
+            "Expected": "All True",
+            "Observed": true,
+            "Passed": true
+        },
+        {
+            "Check": "Final model artefact present",
+            "Expected": "predictive_maintenance_bagging_pipeline.joblib",
+            "Observed": "predictive_maintenance_bagging_pipeline.joblib",
+            "Passed": true
+        },
+        {
+            "Check": "Final model checksum",
+            "Expected": "11d427cd355f39a92a2cc4386151e6f0bd21126c2e966b8575cf8587c261a8da",
+            "Observed": "11d427cd355f39a92a2cc4386151e6f0bd21126c2e966b8575cf8587c261a8da",
+            "Passed": true
+        },
+        {
+            "Check": "Selected-model consistency",
+            "Expected": "Bagging",
+            "Observed": "Bagging",
+            "Passed": true
+        },
+        {
+            "Check": "Persistent MLflow static exports",
+            "Expected": "All required exports present",
+            "Observed": "All present",
+            "Passed": true
+        },
+        {
+            "Check": "Interim requirements file",
+            "Expected": "requirements-interim.txt",
+            "Observed": "requirements-interim.txt",
+            "Passed": true
+        },
+        {
+            "Check": "Interim/final workflow boundary",
+            "Expected": "No Streamlit or GitHub Actions files",
+            "Observed": "Boundary preserved",
+            "Passed": true
+        }
+    ]
+}

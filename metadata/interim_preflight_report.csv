@@ -1,0 +1,14 @@
+Check,Expected,Observed,Passed
+GitHub repository visibility,Public,Public,True
+Active Git branch,main,main,True
+Local and remote commit synchronisation,Matching commits,Matching,True
+Working tree before preflight report,Clean,Clean,True
+Manifest artefact count,At least 41,41,True
+Manifest public accessibility,All True,True,True
+Manifest public checksum matching,All True,True,True
+Final model artefact present,predictive_maintenance_bagging_pipeline.joblib,predictive_maintenance_bagging_pipeline.joblib,True
+Final model checksum,11d427cd355f39a92a2cc4386151e6f0bd21126c2e966b8575cf8587c261a8da,11d427cd355f39a92a2cc4386151e6f0bd21126c2e966b8575cf8587c261a8da,True
+Selected-model consistency,Bagging,Bagging,True
+Persistent MLflow static exports,All required exports present,All present,True
+Interim requirements file,requirements-interim.txt,requirements-interim.txt,True
+Interim/final workflow boundary,No Streamlit or GitHub Actions files,Boundary preserved,True
