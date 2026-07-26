@@ -1,0 +1,26 @@
+{
+    "feature_count": 6,
+    "feature_order": [
+        "engine_rpm",
+        "lub_oil_pressure",
+        "fuel_pressure",
+        "coolant_pressure",
+        "lub_oil_temperature",
+        "coolant_temperature"
+    ],
+    "feature_types": {
+        "engine_rpm": "int64",
+        "lub_oil_pressure": "float64",
+        "fuel_pressure": "float64",
+        "coolant_pressure": "float64",
+        "lub_oil_temperature": "float64",
+        "coolant_temperature": "float64"
+    },
+    "target_column": "engine_condition",
+    "target_labels": [
+        0,
+        1
+    ],
+    "positive_class": 1,
+    "expected_input_type": "pandas DataFrame containing the six named sensor columns"
+}
