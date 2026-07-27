@@ -4,7 +4,7 @@
     "repository": "AIAppz2026/predictive-maintenance-capstone",
     "repository_visibility": "Public",
     "default_branch": "main",
-    "verified_source_commit": "7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df",
+    "verified_source_commit": "be41818d0384cc4e168ec18d75859ae48df678b3",
     "raw_dataset_sha256": "11d427cd355f39a92a2cc4386151e6f0bd21126c2e966b8575cf8587c261a8da",
     "training_dataset_sha256": "f078873ac746b43e5dd2359d46e631283a556c42b2905dc4e3d369338af6c9d6",
     "testing_dataset_sha256": "8f09a48e06d4a11b2efd9deb62fb25516c8b7fc7eab4f5179b1cc63a6d04723f",
@@ -27,7 +27,7 @@
     "artifacts": [
         {
             "Repository Path": "data/raw/engine_data.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/data/raw/engine_data.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/data/raw/engine_data.csv",
             "File Size Bytes": 1301801,
             "Local SHA-256": "616c7b985ec00e299061f02b11fd866f8eca16b5e8d15d4a61a5fbfd116b8045",
             "Public SHA-256": "616c7b985ec00e299061f02b11fd866f8eca16b5e8d15d4a61a5fbfd116b8045",
@@ -36,7 +36,7 @@
         },
         {
             "Repository Path": "metadata/raw_dataset_metadata.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/raw_dataset_metadata.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/raw_dataset_metadata.json",
             "File Size Bytes": 511,
             "Local SHA-256": "8878cf82a1682cdb18867bb383f518e608de1ee24419f37ba045d28894b6e2eb",
             "Public SHA-256": "8878cf82a1682cdb18867bb383f518e608de1ee24419f37ba045d28894b6e2eb",
@@ -45,7 +45,7 @@
         },
         {
             "Repository Path": "data/prepared/train.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/data/prepared/train.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/data/prepared/train.csv",
             "File Size Bytes": 1025848,
             "Local SHA-256": "f078873ac746b43e5dd2359d46e631283a556c42b2905dc4e3d369338af6c9d6",
             "Public SHA-256": "f078873ac746b43e5dd2359d46e631283a556c42b2905dc4e3d369338af6c9d6",
@@ -54,7 +54,7 @@
         },
         {
             "Repository Path": "data/prepared/test.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/data/prepared/test.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/data/prepared/test.csv",
             "File Size Bytes": 256547,
             "Local SHA-256": "8f09a48e06d4a11b2efd9deb62fb25516c8b7fc7eab4f5179b1cc63a6d04723f",
             "Public SHA-256": "8f09a48e06d4a11b2efd9deb62fb25516c8b7fc7eab4f5179b1cc63a6d04723f",
@@ -63,7 +63,7 @@
         },
         {
             "Repository Path": "metadata/prepared_dataset_metadata.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/prepared_dataset_metadata.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/prepared_dataset_metadata.json",
             "File Size Bytes": 1344,
             "Local SHA-256": "c8062ae6aa70d0a10af0750517154e5ece8b1e5d7b43b5cbf5e648e3789ce506",
             "Public SHA-256": "c8062ae6aa70d0a10af0750517154e5ece8b1e5d7b43b5cbf5e648e3789ce506",
@@ -72,7 +72,7 @@
         },
         {
             "Repository Path": "metadata/baseline_cv_results.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/baseline_cv_results.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/baseline_cv_results.csv",
             "File Size Bytes": 1914,
             "Local SHA-256": "1c3507a0cab4e20e4953b797f054c7389ffd465747e1b0e1ee11a860f5bcdcfb",
             "Public SHA-256": "1c3507a0cab4e20e4953b797f054c7389ffd465747e1b0e1ee11a860f5bcdcfb",
@@ -81,7 +81,7 @@
         },
         {
             "Repository Path": "metadata/baseline_cv_signature.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/baseline_cv_signature.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/baseline_cv_signature.json",
             "File Size Bytes": 6539,
             "Local SHA-256": "7c4cfd981db056730cbde168505f146e7cb97b0f215ca0112a4c97190a8d7abc",
             "Public SHA-256": "7c4cfd981db056730cbde168505f146e7cb97b0f215ca0112a4c97190a8d7abc",
@@ -90,7 +90,7 @@
         },
         {
             "Repository Path": "metadata/mlflow_baseline_runs_export.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/mlflow_baseline_runs_export.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/mlflow_baseline_runs_export.csv",
             "File Size Bytes": 4382,
             "Local SHA-256": "c853207108fb32db7ca651a1609e1e30c5adcbec242224c1eb511ffcf6caf3a1",
             "Public SHA-256": "c853207108fb32db7ca651a1609e1e30c5adcbec242224c1eb511ffcf6caf3a1",
@@ -99,7 +99,7 @@
         },
         {
             "Repository Path": "metadata/mlflow_baseline_runs_export.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/mlflow_baseline_runs_export.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/mlflow_baseline_runs_export.json",
             "File Size Bytes": 7900,
             "Local SHA-256": "05d5c700b4054f2abd8fc674e3ebf05918ad7499b5ae33e39ed710faaf4b1d80",
             "Public SHA-256": "05d5c700b4054f2abd8fc674e3ebf05918ad7499b5ae33e39ed710faaf4b1d80",
@@ -108,7 +108,7 @@
         },
         {
             "Repository Path": "metadata/tuned_cv_results.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/tuned_cv_results.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/tuned_cv_results.csv",
             "File Size Bytes": 2543,
             "Local SHA-256": "ec5c11f95e5e82b30a953733d6fb2cc121cdeb0fd7e4246ce88b1a6d76edb4f1",
             "Public SHA-256": "ec5c11f95e5e82b30a953733d6fb2cc121cdeb0fd7e4246ce88b1a6d76edb4f1",
@@ -117,7 +117,7 @@
         },
         {
             "Repository Path": "metadata/tuned_cv_results.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/tuned_cv_results.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/tuned_cv_results.json",
             "File Size Bytes": 4993,
             "Local SHA-256": "ca68c3ea271144a03e6c041804998e32f36511762046b864de61cd586525febb",
             "Public SHA-256": "ca68c3ea271144a03e6c041804998e32f36511762046b864de61cd586525febb",
@@ -126,7 +126,7 @@
         },
         {
             "Repository Path": "metadata/tuning_signature.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/tuning_signature.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/tuning_signature.json",
             "File Size Bytes": 5563,
             "Local SHA-256": "b6a382b70b468e65b748bd14f55ce79a768f2c51b36e0cf976198a7ff495e69d",
             "Public SHA-256": "b6a382b70b468e65b748bd14f55ce79a768f2c51b36e0cf976198a7ff495e69d",
@@ -135,7 +135,7 @@
         },
         {
             "Repository Path": "metadata/mlflow_tuned_runs_export.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/mlflow_tuned_runs_export.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/mlflow_tuned_runs_export.csv",
             "File Size Bytes": 3557,
             "Local SHA-256": "ee01d1ab1d33544e95894faa36110d3095b0df20111e487e9f4dc3a3156e7bca",
             "Public SHA-256": "ee01d1ab1d33544e95894faa36110d3095b0df20111e487e9f4dc3a3156e7bca",
@@ -144,7 +144,7 @@
         },
         {
             "Repository Path": "metadata/mlflow_tuned_runs_export.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/mlflow_tuned_runs_export.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/mlflow_tuned_runs_export.json",
             "File Size Bytes": 6648,
             "Local SHA-256": "cab92b8dc136c8a06405a200c875f0ce7ea2d44ccd60b89a0293f5725c0edf26",
             "Public SHA-256": "cab92b8dc136c8a06405a200c875f0ce7ea2d44ccd60b89a0293f5725c0edf26",
@@ -153,7 +153,7 @@
         },
         {
             "Repository Path": "metadata/tuned_test_evaluation_results.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/tuned_test_evaluation_results.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/tuned_test_evaluation_results.csv",
             "File Size Bytes": 1446,
             "Local SHA-256": "40824af3c8835cd8a68a85f50f7424e363f04f29011141334c8c34bf23f8c640",
             "Public SHA-256": "40824af3c8835cd8a68a85f50f7424e363f04f29011141334c8c34bf23f8c640",
@@ -162,7 +162,7 @@
         },
         {
             "Repository Path": "metadata/tuned_test_evaluation_results.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/tuned_test_evaluation_results.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/tuned_test_evaluation_results.json",
             "File Size Bytes": 3649,
             "Local SHA-256": "708675a370b573713c5c141e5d52e8df0ae84b71b0f9bf8ed30e543bbabd58f2",
             "Public SHA-256": "708675a370b573713c5c141e5d52e8df0ae84b71b0f9bf8ed30e543bbabd58f2",
@@ -171,7 +171,7 @@
         },
         {
             "Repository Path": "metadata/mlflow_test_evaluation_runs_export.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/mlflow_test_evaluation_runs_export.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/mlflow_test_evaluation_runs_export.csv",
             "File Size Bytes": 2807,
             "Local SHA-256": "bec329d84fa54de4e7977216623fce962c197aa602399063735ed660ae0ed86a",
             "Public SHA-256": "bec329d84fa54de4e7977216623fce962c197aa602399063735ed660ae0ed86a",
@@ -180,7 +180,7 @@
         },
         {
             "Repository Path": "metadata/mlflow_test_evaluation_runs_export.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/mlflow_test_evaluation_runs_export.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/mlflow_test_evaluation_runs_export.json",
             "File Size Bytes": 5628,
             "Local SHA-256": "28ce67c5bba763a46f973a5fd6e52e264f47b21873387d40cc9747aece097db7",
             "Public SHA-256": "28ce67c5bba763a46f973a5fd6e52e264f47b21873387d40cc9747aece097db7",
@@ -189,7 +189,7 @@
         },
         {
             "Repository Path": "metadata/model_selection_summary.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/model_selection_summary.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/model_selection_summary.csv",
             "File Size Bytes": 2034,
             "Local SHA-256": "15acbd8a2cda4ac0145b50458d0232e1b3320cd3845f587cf3f0121ec665fb00",
             "Public SHA-256": "15acbd8a2cda4ac0145b50458d0232e1b3320cd3845f587cf3f0121ec665fb00",
@@ -198,7 +198,7 @@
         },
         {
             "Repository Path": "metadata/model_selection_decision.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/model_selection_decision.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/model_selection_decision.json",
             "File Size Bytes": 1419,
             "Local SHA-256": "00e2ca08163b27a0dd4c689960485686ee385c9a81d88ca81ba0094df971b14b",
             "Public SHA-256": "00e2ca08163b27a0dd4c689960485686ee385c9a81d88ca81ba0094df971b14b",
@@ -207,7 +207,7 @@
         },
         {
             "Repository Path": "models/predictive_maintenance_bagging_pipeline.joblib",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/models/predictive_maintenance_bagging_pipeline.joblib",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/models/predictive_maintenance_bagging_pipeline.joblib",
             "File Size Bytes": 1084057,
             "Local SHA-256": "11d427cd355f39a92a2cc4386151e6f0bd21126c2e966b8575cf8587c261a8da",
             "Public SHA-256": "11d427cd355f39a92a2cc4386151e6f0bd21126c2e966b8575cf8587c261a8da",
@@ -216,7 +216,7 @@
         },
         {
             "Repository Path": "models/MODEL_CARD.md",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/models/MODEL_CARD.md",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/models/MODEL_CARD.md",
             "File Size Bytes": 1396,
             "Local SHA-256": "8fc69fd150d3a9c80dcb16de63444c1f426f5ea4ef34faf7f32823d1e03439da",
             "Public SHA-256": "8fc69fd150d3a9c80dcb16de63444c1f426f5ea4ef34faf7f32823d1e03439da",
@@ -225,7 +225,7 @@
         },
         {
             "Repository Path": "metadata/final_model_metadata.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/final_model_metadata.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/final_model_metadata.json",
             "File Size Bytes": 3356,
             "Local SHA-256": "a380332283cf6d0ff27508c9057bc71a5e85b9518ce9267b5f0546e5463a1b86",
             "Public SHA-256": "a380332283cf6d0ff27508c9057bc71a5e85b9518ce9267b5f0546e5463a1b86",
@@ -234,7 +234,7 @@
         },
         {
             "Repository Path": "metadata/final_model_feature_schema.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/final_model_feature_schema.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/final_model_feature_schema.json",
             "File Size Bytes": 682,
             "Local SHA-256": "e9fe4d51e92c5e134d0d8fec29129d808022d8704a1cd1eabab18da3c52d262f",
             "Public SHA-256": "e9fe4d51e92c5e134d0d8fec29129d808022d8704a1cd1eabab18da3c52d262f",
@@ -243,7 +243,7 @@
         },
         {
             "Repository Path": "metadata/final_model_classification_report.json",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/final_model_classification_report.json",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/final_model_classification_report.json",
             "File Size Bytes": 719,
             "Local SHA-256": "e7d4568535ac7829aeceb824bf55642dc8db26cbe0593d7c1e8c4faedd1e9a7b",
             "Public SHA-256": "e7d4568535ac7829aeceb824bf55642dc8db26cbe0593d7c1e8c4faedd1e9a7b",
@@ -252,7 +252,7 @@
         },
         {
             "Repository Path": "metadata/final_model_confusion_matrix.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/final_model_confusion_matrix.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/final_model_confusion_matrix.csv",
             "File Size Bytes": 85,
             "Local SHA-256": "b9dd97332219f5b782ba7fe3bfc7893459c94d64cdc8f3bbdfd2fea5b1cd7bff",
             "Public SHA-256": "b9dd97332219f5b782ba7fe3bfc7893459c94d64cdc8f3bbdfd2fea5b1cd7bff",
@@ -261,7 +261,7 @@
         },
         {
             "Repository Path": "metadata/final_model_representative_predictions.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/final_model_representative_predictions.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/final_model_representative_predictions.csv",
             "File Size Bytes": 778,
             "Local SHA-256": "1ef797cc72a45446104a9d676d64e8e46d7a1892e185a654b3ae4aa41bfd53cd",
             "Public SHA-256": "1ef797cc72a45446104a9d676d64e8e46d7a1892e185a654b3ae4aa41bfd53cd",
@@ -270,7 +270,7 @@
         },
         {
             "Repository Path": "metadata/final_model_feature_importance.csv",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/metadata/final_model_feature_importance.csv",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/metadata/final_model_feature_importance.csv",
             "File Size Bytes": 528,
             "Local SHA-256": "2186f8e97db29795247d798575c12a3b4a766dddf6f7b06c13bb2d5439cc7044",
             "Public SHA-256": "2186f8e97db29795247d798575c12a3b4a766dddf6f7b06c13bb2d5439cc7044",
@@ -279,7 +279,7 @@
         },
         {
             "Repository Path": "requirements-interim.txt",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/requirements-interim.txt",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/requirements-interim.txt",
             "File Size Bytes": 213,
             "Local SHA-256": "e5cebcca5c21366edefa622a623a3fd4e1829aaf7676b82ab50cd35cf5fe30d5",
             "Public SHA-256": "e5cebcca5c21366edefa622a623a3fd4e1829aaf7676b82ab50cd35cf5fe30d5",
@@ -288,7 +288,7 @@
         },
         {
             "Repository Path": "reports/figures/target_class_distribution.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/target_class_distribution.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/target_class_distribution.png",
             "File Size Bytes": 118297,
             "Local SHA-256": "ca6724ad118418ac3b5c9de61939178b4ee7404396e71f32f8f8770618d8e6cc",
             "Public SHA-256": "ca6724ad118418ac3b5c9de61939178b4ee7404396e71f32f8f8770618d8e6cc",
@@ -297,7 +297,7 @@
         },
         {
             "Repository Path": "reports/figures/sensor_univariate_distributions.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/sensor_univariate_distributions.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/sensor_univariate_distributions.png",
             "File Size Bytes": 675062,
             "Local SHA-256": "e9e618b97748ce594446bbc5e990640ea339440596147820dcd046e1cbecfab5",
             "Public SHA-256": "e9e618b97748ce594446bbc5e990640ea339440596147820dcd046e1cbecfab5",
@@ -306,7 +306,7 @@
         },
         {
             "Repository Path": "reports/figures/coolant_temperature_full_and_zoomed.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/coolant_temperature_full_and_zoomed.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/coolant_temperature_full_and_zoomed.png",
             "File Size Bytes": 215925,
             "Local SHA-256": "64b67145cacf11f2c9864ae7e65710f68db243b4e3354abe58d17f2eaae94d01",
             "Public SHA-256": "64b67145cacf11f2c9864ae7e65710f68db243b4e3354abe58d17f2eaae94d01",
@@ -315,7 +315,7 @@
         },
         {
             "Repository Path": "reports/figures/sensor_distributions_by_engine_condition.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/sensor_distributions_by_engine_condition.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/sensor_distributions_by_engine_condition.png",
             "File Size Bytes": 486029,
             "Local SHA-256": "a3bcb9766e286a5073dea04c15bd80be7c2e59381c6dc45cc2612f4e885ff835",
             "Public SHA-256": "a3bcb9766e286a5073dea04c15bd80be7c2e59381c6dc45cc2612f4e885ff835",
@@ -324,7 +324,7 @@
         },
         {
             "Repository Path": "reports/figures/sensor_correlation_matrix.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/sensor_correlation_matrix.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/sensor_correlation_matrix.png",
             "File Size Bytes": 324158,
             "Local SHA-256": "d63d29dd9125ce991ad09b4e4468d31ff8c9b19906fb04aae46953870d038398",
             "Public SHA-256": "d63d29dd9125ce991ad09b4e4468d31ff8c9b19906fb04aae46953870d038398",
@@ -333,7 +333,7 @@
         },
         {
             "Repository Path": "reports/figures/selected_sensor_pairplot_by_class.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/selected_sensor_pairplot_by_class.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/selected_sensor_pairplot_by_class.png",
             "File Size Bytes": 1774546,
             "Local SHA-256": "92b2ed1d4720d08ee320a10dc52f8fa209a05ef48fa6f8ad0fd5fd80f90f1e4a",
             "Public SHA-256": "92b2ed1d4720d08ee320a10dc52f8fa209a05ef48fa6f8ad0fd5fd80f90f1e4a",
@@ -342,7 +342,7 @@
         },
         {
             "Repository Path": "reports/figures/selected_sensor_interactions_by_class.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/selected_sensor_interactions_by_class.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/selected_sensor_interactions_by_class.png",
             "File Size Bytes": 2665428,
             "Local SHA-256": "c2d6f4b3025b8293f75870af6b424023541cef1fe776673f19aa7e2ac8d3a26a",
             "Public SHA-256": "c2d6f4b3025b8293f75870af6b424023541cef1fe776673f19aa7e2ac8d3a26a",
@@ -351,7 +351,7 @@
         },
         {
             "Repository Path": "reports/figures/baseline_cv_f1_comparison.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/baseline_cv_f1_comparison.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/baseline_cv_f1_comparison.png",
             "File Size Bytes": 148967,
             "Local SHA-256": "f55df55ce319e5cadf4531f2a5b24b89b0a3a49e96d8222d00a32744aafc400f",
             "Public SHA-256": "f55df55ce319e5cadf4531f2a5b24b89b0a3a49e96d8222d00a32744aafc400f",
@@ -360,7 +360,7 @@
         },
         {
             "Repository Path": "reports/figures/tuned_cv_f1_comparison.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/tuned_cv_f1_comparison.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/tuned_cv_f1_comparison.png",
             "File Size Bytes": 148441,
             "Local SHA-256": "60d12dbf344709e0526fb884a7ba31619e08b179aa12a6b3d2fa43d6049a55c4",
             "Public SHA-256": "60d12dbf344709e0526fb884a7ba31619e08b179aa12a6b3d2fa43d6049a55c4",
@@ -369,7 +369,7 @@
         },
         {
             "Repository Path": "reports/figures/tuned_model_confusion_matrices.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/tuned_model_confusion_matrices.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/tuned_model_confusion_matrices.png",
             "File Size Bytes": 282164,
             "Local SHA-256": "d2deef90d90d008798af17cb90b3990b79e42f5a2ddaf53c8491caef1c9cd14e",
             "Public SHA-256": "d2deef90d90d008798af17cb90b3990b79e42f5a2ddaf53c8491caef1c9cd14e",
@@ -378,7 +378,7 @@
         },
         {
             "Repository Path": "reports/figures/tuned_model_roc_curves.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/tuned_model_roc_curves.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/tuned_model_roc_curves.png",
             "File Size Bytes": 370345,
             "Local SHA-256": "fae3c2454f71c7b105a1836048ddef92e02bece3a3bd8b3c8bdcea92c3647a6f",
             "Public SHA-256": "fae3c2454f71c7b105a1836048ddef92e02bece3a3bd8b3c8bdcea92c3647a6f",
@@ -387,7 +387,7 @@
         },
         {
             "Repository Path": "reports/figures/final_model_feature_importance.png",
-            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/7ff3b37c7cbfbd8fbdbdc08ad75e967e81b1f5df/reports/figures/final_model_feature_importance.png",
+            "Immutable Public URL": "https://raw.githubusercontent.com/AIAppz2026/predictive-maintenance-capstone/be41818d0384cc4e168ec18d75859ae48df678b3/reports/figures/final_model_feature_importance.png",
             "File Size Bytes": 162742,
             "Local SHA-256": "a83feb7fa86818ede90e9f6ae2936401fbcb5b626fe2a69b80ac991a9cb5dd55",
             "Public SHA-256": "a83feb7fa86818ede90e9f6ae2936401fbcb5b626fe2a69b80ac991a9cb5dd55",
