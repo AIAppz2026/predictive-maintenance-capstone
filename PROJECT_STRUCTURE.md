@@ -23,4 +23,6 @@ The interim repository follows this structure:
 - `reports/figures/` stores charts used in analysis and reporting.
 - `src/` stores reusable project scripts.
 
+The local `mlflow_artifacts/` directory is intentionally excluded from GitHub because it contains the persistent MLflow runtime store. Evaluator-readable MLflow evidence is exported under `metadata/`.
+
 Streamlit deployment files and GitHub Actions workflows will be added during the final submission phase.
