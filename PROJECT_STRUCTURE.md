@@ -6,7 +6,6 @@ The interim repository follows this structure:
   - raw/
   - prepared/
 - metadata/
-- mlflow_artifacts/
 - models/
 - reports/
   - figures/
@@ -19,8 +18,7 @@ The interim repository follows this structure:
 
 - `data/raw/` stores the original registered engine dataset.
 - `data/prepared/` stores cleaned training and testing datasets.
-- `metadata/` stores dataset, model, and experiment metadata.
-- `mlflow_artifacts/` stores controlled exported MLflow summaries or selected artefacts.
+- `metadata/` stores dataset metadata, static MLflow experiment exports, evaluation evidence, model metadata, checksums, and reproducibility records.
 - `models/` stores the selected reusable model pipeline.
 - `reports/figures/` stores charts used in analysis and reporting.
 - `src/` stores reusable project scripts.
