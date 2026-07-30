@@ -1,7 +1,7 @@
 {
     "project": "Predictive Maintenance AIML Capstone",
     "preflight_status": "Passed",
-    "preflight_source_commit": "b96ad0e64abb8818b326bf807e2fe3b6acec4139",
+    "preflight_source_commit": "d1f309ffd48811f653e0641e98f5ab2585bdd1c3",
     "repository": "AIAppz2026/predictive-maintenance-capstone",
     "repository_visibility": "Public",
     "branch": "main",
